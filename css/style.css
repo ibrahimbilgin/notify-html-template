@@ -1,0 +1,175 @@
+#main {
+    background: url("../img/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding-top: 170px;
+    padding-bottom: 170px
+}
+
+#main p {
+    font-family: Helvetica Neue;
+    font-weight: 500;
+    font-size: 24px;
+    padding: 40px 0 40px 0
+}
+
+#main h3 {
+    font-family: Pacifico, cursive;
+    font-size: 36.691958px
+}
+
+#main i {
+    opacity: 0.7;
+    margin-right: 15px;
+    width: 50px;
+    height: 50px;
+    color: #f9f9f9;
+    line-height: 50px;
+    text-align: center;
+    background-color: #818181;
+    border-radius: 100%;
+    font-size: 27px;
+    transition: all 0.5s
+}
+
+#main i:hover {
+    opacity: 1;
+    background: #2ecc71;
+    cursor: pointer
+}
+
+#features {
+    padding-top: 60px;
+    padding-bottom: 60px
+}
+
+#features p {
+    color: #848484
+}
+
+#features h3 {
+    margin-top: 30px;
+    font-family: Raleway, sans-serif;
+    font-weight: 600
+}
+
+#features i {
+    width: 98px;
+    height: 98px;
+    background-color: #2ecc71;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 48px;
+    text-align: center;
+    line-height: 98px
+}
+
+#notified {
+    background-color: #e3e3e3;
+    padding-top: 60px;
+    padding-bottom: 60px
+}
+
+#notified h3 {
+    margin-top: 60px
+}
+
+#notified .btn {
+    color: #fff;
+    background-color: #2ecc71;
+    border: none
+}
+
+#notified .input-group {
+    margin-top: 30px
+}
+
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active,
+.form-control:focus,
+.form-control:active {
+    box-shadow: none !important
+}
+
+#statement {
+    background-color: #fff;
+    padding-top: 60px;
+    padding-bottom: 60px
+}
+
+#statement p {
+    font-family: Helvetica Neue;
+    font-size: 18px;
+    color: #848484
+}
+
+#statement h3 {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 30px 0 30px 0
+}
+
+.resimler {
+    margin-bottom: 60px;
+}
+
+.resimler img {
+    padding: 0 10px 10px 0;
+}
+
+.resimler:hover {
+    cursor: pointer;
+}
+
+.hx {
+    font-size: 24px !important;
+}
+
+.hv {
+    font-size: 16px !important;
+    margin: 0 !important;
+}
+
+#statement i {
+    margin-top: 30px;
+    width: 34px;
+    height: 34px;
+    color: #f9f9f9;
+    line-height: 34px;
+    text-align: center;
+    background-color: #818181;
+    border-radius: 100%;
+    font-size: 20px;
+    transition: all 0.5s
+}
+
+#statement i:hover {
+    background: #2ecc71;
+    cursor: pointer
+}
+
+footer {
+    background-color: #e3e3e3;
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    color: #848484;
+    padding: 60px 0 30px 0
+}
+
+footer a {
+    margin: 30px;
+    font-size: 16px;
+    color: #848484
+}
+
+footer a:hover {
+    color: #848484;
+    text-decoration: none
+}
+
+.list-inline-item {
+    text-align: center;
+    padding-bottom: 10px;
+}
